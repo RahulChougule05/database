@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.mongoDB{
+    display: inline-block;
+    width: 290px;
+    height: 550px;
+    border-right: 0.5px groove rgb(156, 153, 153);
+    /* border-style: outset;  */
+}
+
+.mongoDBLogo{
+    text-align: center;
+}
+
+.mongoDBTitle{
+    background-color: #27ae60;
+    color: #ffffff;
+    text-align: center;
+}
+
+.mongoDBData{
+    padding: 25px;
+    text-align: center;
+    font-size: medium;
+    height: 75px;
+}
+
+.mySqlDB{
+    display: inline-block;
+    width: 290px;
+    height: 550px;
+    border-style: hidden;
+    /* border-left: 0.5px solid rgb(156, 153, 153); */
+}
+
+.mySqlDBLogo{
+    text-align: center;
+}
+
+.mySqlDBTitle{
+    background-color: #f39c12;
+    color: #ffffff;
+    text-align: center;
+}
+
+.mySqlDBData{
+    padding: 25px;
+    text-align: center;
+    font-size: medium;
+    height: 75px;
+}
